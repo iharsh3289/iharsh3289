@@ -1,8 +1,10 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-
 ## 🚀 About Me
 
-🎓 I am harsh Garg
+### **HARSH GARG**
+🎓 Pursuing B.tech in Computer Engineering<br>
+🏫 J.C.Bose University Of Science and Technology<br>
+🏠 From Karnal,Haryana<br>
+🏙️ Lives In Faridabad , Haryana
 
 <!-- ## 🏅 Achievements
 
