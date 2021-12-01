@@ -10,6 +10,12 @@
 
 -   📝 **Four Times Global #1 Weekly Blog Writer** at _Dev_ (November 2021) -->
 
+## 👑 Ratings
+<a href="https://www.codechef.com/users/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/iharsh3289&prefix=Rating%20&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on CodeChef" title="Harsh Garg's profile on CodeChef"></a>
+
+<a href="https://codeforces.com/profile/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/iharsh3289&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on Codeforces" title="Harsh Garg's profile on Codeforces"></a>
+
+
 ## 🛠️ Skills
 
 ### Languages
