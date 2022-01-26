@@ -47,6 +47,7 @@
 ### Backend as a Service (BaaS)
 
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![githubPages](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 Stats
 
