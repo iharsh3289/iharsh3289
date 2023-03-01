@@ -12,11 +12,11 @@
 
 ## 👑 Ratings
 
-<a href="https://www.codechef.com/users/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/codechef/iharsh3289&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on CodeChef" title="Harsh Garg's profile on CodeChef"></a>
+<a href="https://www.codechef.com/users/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/codechef/iharsh3289&logo=codechef&logoColor=5B4638&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on CodeChef" title="Harsh Garg's profile on CodeChef"></a>
 
-<a href="https://www.codeforces.com/users/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=Codeforces&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/codeforces/iharsh3289&logo=codeforces&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on Codeforces" title="Harsh Garg's profile on Codeforces"></a>
+<a href="https://www.codeforces.com/users/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=Codeforces&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/codeforces/iharsh3289&logo=codeforces&logoColor=1F8ACB&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on Codeforces" title="Harsh Garg's profile on Codeforces"></a>
 
-<a href="https://www.leetcode.com/users/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=leetcode&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/leetcode/iharsh3289&logo=leetcode&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on leetcode" title="Harsh Garg's profile on leetcode"></a>
+<a href="https://www.leetcode.com/users/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=leetcode&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/leetcode/iharsh3289&logo=leetcode&logoColor=FFA116&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on leetcode" title="Harsh Garg's profile on leetcode"></a>
 
 
 
@@ -27,14 +27,14 @@
 ![C++](https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-563D7C?style=for-the-badge&logo=php&logoColor=white)
+![java](https://img.shields.io/badge/java-ff0000?style=for-the-badge&logo=JAVA&logoColor=white)
 
 ### Front-End Development
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![react](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### Back-End Development
 
