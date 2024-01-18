@@ -14,9 +14,9 @@
 
 <a href="https://www.codechef.com/users/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/codechef/iharsh3289&logo=codechef&logoColor=5B4638&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on CodeChef" title="Harsh Garg's profile on CodeChef"></a>
 
-<a href="https://www.codeforces.com/users/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=Codeforces&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/codeforces/iharsh3289&logo=codeforces&logoColor=1F8ACB&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on Codeforces" title="Harsh Garg's profile on Codeforces"></a>
+<a href="https://codeforces.com/profile/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=Codeforces&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/codeforces/iharsh3289&logo=codeforces&logoColor=1F8ACB&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on Codeforces" title="Harsh Garg's profile on Codeforces"></a>
 
-<a href="https://www.leetcode.com/users/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=leetcode&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/leetcode/iharsh3289&logo=leetcode&logoColor=FFA116&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on leetcode" title="Harsh Garg's profile on leetcode"></a>
+<a href="https://www.leetcode.com/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=leetcode&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/leetcode/iharsh3289&logo=leetcode&logoColor=FFA116&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on leetcode" title="Harsh Garg's profile on leetcode"></a>
 
 
 
