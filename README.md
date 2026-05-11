@@ -97,6 +97,7 @@ Production-style full-stack application built using Java 21 and Spring Boot for 
 Java 21 • Spring Boot 3 • SQLite • Docker • GitHub Actions • Render
 
 🔗 Repository: https://github.com/iharsh3289/vaultshare
+   Live : https://spring-websocket-chat-app-nj54.onrender.com
 
 ---
 
@@ -113,20 +114,8 @@ Scalable real-time chat platform built using React, Spring Boot, WebSockets, Red
 #### Tech Stack
 React • Spring Boot • WebSockets • Redis • MongoDB • Docker
 
----
-
-### 🔹 Distributed Job Processing System
-Asynchronous distributed processing system designed for scalable background task execution and queue-based workflows.
-
-#### Highlights
-- Distributed worker orchestration
-- Retry and failure handling mechanisms
-- Queue-based communication
-- Job scheduling and status tracking
-- Scalable background processing architecture
-
-#### Tech Stack
-Java • Spring Boot • Kafka/RabbitMQ • PostgreSQL • Redis • Docker
+🔗 Repository: https://github.com/iharsh3289/spring-websocket-chat-app
+   Live : https://spring-websocket-chat-app-nj54.onrender.com
 
 ---
 
