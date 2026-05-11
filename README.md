@@ -143,6 +143,8 @@ Scalable ecommerce platform built using Spring Boot, React, Kafka, Redis, Postgr
 #### Tech Stack
 Java • Spring Boot • React • Kafka • Redis • PostgreSQL • Docker
 
+🔗 Repository: https://github.com/iharsh3289/ecommerce-microservices
+
 ---
 
 ## 🧠 Areas of Interest
