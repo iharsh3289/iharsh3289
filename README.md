@@ -1,66 +1,142 @@
+# Hi there, I'm Harsh Garg 👋
+
+Full Stack Software Engineer focused on building scalable web applications, distributed systems, and high-performance backend services using Java, Spring Boot, and React.
+
+---
+
 ## 🚀 About Me
 
-### **HARSH GARG**
-🎓 Pursuing B.tech in Computer Engineering<br>
-🏫 J.C.Bose University Of Science and Technology<br>
-🏠 From Karnal,Haryana<br>
-🏙️ Lives In Faridabad , Haryana
+- Full Stack Engineer with strong backend and frontend development experience
+- Passionate about scalable system design and clean architecture
+- Experienced in building enterprise-grade applications and distributed systems
+- Currently focused on Java ecosystem, Spring Boot microservices, and modern frontend development
 
-<!-- ## 🏅 Achievements
+---
 
--   📝 **Four Times Global #1 Weekly Blog Writer** at _Dev_ (November 2021) -->
+## 💻 Tech Stack
 
-## 👑 Ratings
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- Microservices
+- Node.js
+- .NET / ASP.NET Core
 
-<a href="https://www.codechef.com/users/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/codechef/iharsh3289&logo=codechef&logoColor=5B4638&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on CodeChef" title="Harsh Garg's profile on CodeChef"></a>
+### Frontend
+- React.js
+- Angular
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
 
-<a href="https://codeforces.com/profile/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=Codeforces&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/codeforces/iharsh3289&logo=codeforces&logoColor=1F8ACB&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on Codeforces" title="Harsh Garg's profile on Codeforces"></a>
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLite
+- Redis
 
-<a href="https://www.leetcode.com/iharsh3289"><img src="https://img.shields.io/badge/dynamic/json?label=leetcode&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/leetcode/iharsh3289&logo=leetcode&logoColor=FFA116&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="Harsh Garg's profile on leetcode" title="Harsh Garg's profile on leetcode"></a>
+### Cloud & DevOps
+- Docker
+- Kubernetes
+- GitHub Actions
+- CI/CD
+- Azure Functions
+- Render
 
+### Distributed Systems & Messaging
+- Kafka
+- RabbitMQ
+- Event-Driven Architecture
+- Background Job Processing
 
+---
 
-## 🛠️ Skills
+## 📌 Featured Projects
 
-### Languages
+### 🔹 VaultShare — Secure File & Link Sharing Platform
+Production-style full-stack application built using Java 21 and Spring Boot for secure ephemeral file, text, and short-link sharing.
 
-![C++](https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![java](https://img.shields.io/badge/java-ff0000?style=for-the-badge&logo=JAVA&logoColor=white)
+#### Highlights
+- Expiring and burn-after-open share links
+- Password-protected secure sharing
+- Multi-file ZIP upload support
+- URL shortener functionality
+- Scheduled cleanup services
+- Dockerized deployment with CI/CD pipelines
+- SQLite-backed metadata persistence
 
-### Front-End Development
+#### Tech Stack
+Java 21 • Spring Boot 3 • SQLite • Docker • GitHub Actions • Render
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![react](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+🔗 Repository: https://github.com/iharsh3289/vaultshare
 
-### Back-End Development
+---
 
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🔹 Real-Time Chat Application
+Scalable real-time chat platform built using React, Spring Boot, WebSockets, Redis Pub/Sub, and MongoDB.
 
-### Database
+#### Highlights
+- Real-time messaging with WebSockets
+- Online presence and typing indicators
+- Private and group chats
+- Redis Pub/Sub based message distribution
+- Persistent chat history and scalable backend architecture
 
-![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+#### Tech Stack
+React • Spring Boot • WebSockets • Redis • MongoDB • Docker
 
-## 📈 Stats
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=black&theme=city_lights)
+---
 
+### 🔹 Distributed Job Processing System
+Asynchronous distributed processing system designed for scalable background task execution and queue-based workflows.
 
-<!-- ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=iharsh3289&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true) -->
+#### Highlights
+- Distributed worker orchestration
+- Retry and failure handling mechanisms
+- Queue-based communication
+- Job scheduling and status tracking
+- Scalable background processing architecture
 
+#### Tech Stack
+Java • Spring Boot • Kafka/RabbitMQ • PostgreSQL • Redis • Docker
 
-<!--     <img src="https://visitor-badge.laobi.icu/badge?page_id=iharsh3289.iharsh3289" alt="visitors"> -->
+---
 
+### 🔹 Ecommerce Microservices Platform
+Scalable ecommerce platform built using Spring Boot, React, Kafka, Redis, PostgreSQL, and Docker with microservices architecture.
 
-## 🔗 Links
+#### Highlights
+- Microservices-based backend architecture
+- JWT authentication and API gateway
+- Event-driven order processing
+- Redis caching and async communication
+- Dockerized deployment setup
 
-<!-- [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/) -->
-<!-- [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e) -->
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/1harsh/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/iharsh3289)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://gmail.com/hgarg5492@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iharsh/)
+#### Tech Stack
+Java • Spring Boot • React • Kafka • Redis • PostgreSQL • Docker
+
+---
+
+## 🧠 Areas of Interest
+
+- Full Stack Development
+- Distributed Systems
+- Scalable Web Applications
+- System Design
+- Cloud-Native Applications
+- High Performance APIs
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/1harsh/
+- GitHub: https://github.com/iharsh3289
+- Email: hgarg5492@gmail.com
+
+---
+
+⭐ Passionate about building scalable full-stack applications and solving complex engineering challenges.
