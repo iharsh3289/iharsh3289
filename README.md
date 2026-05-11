@@ -1,49 +1,61 @@
 # Hi there, I'm Harsh Garg 👋
 
-Full Stack Software Engineer focused on building scalable web applications, distributed systems, and high-performance backend services using Java, Spring Boot, and React.
+Full Stack Software Engineer focused on building scalable distributed systems, high-performance backend services, and modern web applications using Java, Spring Boot, React, and cloud-native technologies.
 
 ---
 
 ## 🚀 About Me
 
 - Full Stack Engineer with strong backend and frontend development experience
-- Passionate about scalable system design and clean architecture
-- Experienced in building enterprise-grade applications and distributed systems
-- Currently focused on Java ecosystem, Spring Boot microservices, and modern frontend development
+- Experienced in designing scalable systems, distributed architectures, and enterprise-grade applications
+- Passionate about system design, cloud-native development, and high-performance APIs
+- Currently focused on Java ecosystem, Spring Boot microservices, distributed systems, and modern frontend engineering
 
 ---
 
 ## 💻 Tech Stack
 
-### Backend
+### Languages
 - Java
+- C#
+- JavaScript
+- TypeScript
+- Python
+- SQL
+
+### Backend Development
 - Spring Boot
+- Spring Security
 - REST APIs
 - Microservices
 - Node.js
-- .NET / ASP.NET Core
+- ASP.NET Core
+- Entity Framework
+- Hibernate / JPA
 
-### Frontend
+### Frontend Development
 - React.js
 - Angular
-- JavaScript
-- TypeScript
 - HTML5
 - CSS3
+- Tailwind CSS
 
-### Databases
+### Databases & Storage
 - PostgreSQL
 - MySQL
+- SQL Server
 - MongoDB
-- SQLite
 - Redis
+- SQLite
 
 ### Cloud & DevOps
+- AWS
+- Azure
+- Azure Functions
 - Docker
 - Kubernetes
 - GitHub Actions
-- CI/CD
-- Azure Functions
+- CI/CD Pipelines
 - Render
 
 ### Distributed Systems & Messaging
@@ -51,6 +63,19 @@ Full Stack Software Engineer focused on building scalable web applications, dist
 - RabbitMQ
 - Event-Driven Architecture
 - Background Job Processing
+- WebSockets
+- Redis Pub/Sub
+
+### Engineering Practices
+- System Design
+- Scalable Architecture
+- Low Level Design
+- Object-Oriented Design
+- Design Patterns
+- Multithreading & Concurrency
+- Performance Optimization
+- API Security
+- Caching Strategies
 
 ---
 
@@ -122,12 +147,14 @@ Java • Spring Boot • React • Kafka • Redis • PostgreSQL • Docker
 
 ## 🧠 Areas of Interest
 
-- Full Stack Development
 - Distributed Systems
+- Full Stack Development
 - Scalable Web Applications
 - System Design
 - Cloud-Native Applications
 - High Performance APIs
+- Backend Engineering
+- Microservices Architecture
 
 ---
 
@@ -139,4 +166,4 @@ Java • Spring Boot • React • Kafka • Redis • PostgreSQL • Docker
 
 ---
 
-⭐ Passionate about building scalable full-stack applications and solving complex engineering challenges.
+⭐ Passionate about building scalable systems, solving complex engineering problems, and building production-grade applications.
