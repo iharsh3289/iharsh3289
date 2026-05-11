@@ -97,7 +97,7 @@ Production-style full-stack application built using Java 21 and Spring Boot for 
 Java 21 • Spring Boot 3 • SQLite • Docker • GitHub Actions • Render
 
 🔗 Repository: https://github.com/iharsh3289/vaultshare
-   Live : https://spring-websocket-chat-app-nj54.onrender.com
+   Live : https://vaultshare-met1.onrender.com
 
 ---
 
