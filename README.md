@@ -1,135 +1,99 @@
 # Hi there, I'm Harsh Garg 👋
 
-Full Stack Software Engineer focused on building scalable distributed systems, high-performance backend services, and modern web applications using Java, Spring Boot, React, and cloud-native technologies.
+Full Stack Software Engineer focused on building scalable distributed systems, high-performance backend services, and modern cloud-native web applications using Java, Spring Boot, React, and distributed architecture patterns.
 
 ---
 
 ## 🚀 About Me
 
 - Full Stack Engineer with strong backend and frontend development experience
-- Experienced in designing scalable systems, distributed architectures, and enterprise-grade applications
-- Passionate about system design, cloud-native development, and high-performance APIs
-- Currently focused on Java ecosystem, Spring Boot microservices, distributed systems, and modern frontend engineering
+- Experienced in building scalable APIs, distributed systems, and production-grade applications
+- Passionate about system design, cloud-native engineering, and performance optimization
+- Currently focused on Java ecosystem, Spring Boot microservices, distributed systems, and modern frontend development
 
 ---
 
 ## 💻 Tech Stack
 
 ### Languages
-- Java
-- C#
-- JavaScript
-- TypeScript
-- Python
-- SQL
+Java • C# • JavaScript • TypeScript • Python • SQL
 
-### Backend Development
-- Spring Boot
-- Spring Security
-- REST APIs
-- Microservices
-- Node.js
-- ASP.NET Core
-- Entity Framework
-- Hibernate / JPA
+### Backend
+Spring Boot • Spring Security • REST APIs • Microservices • Node.js • ASP.NET Core • Hibernate/JPA • Entity Framework
 
-### Frontend Development
-- React.js
-- Angular
-- HTML5
-- CSS3
-- Tailwind CSS
+### Frontend
+React.js • Angular • HTML5 • CSS3 • Tailwind CSS
 
-### Databases & Storage
-- PostgreSQL
-- MySQL
-- SQL Server
-- MongoDB
-- Redis
-- SQLite
+### Databases
+PostgreSQL • MySQL • SQL Server • MongoDB • Redis • SQLite
 
 ### Cloud & DevOps
-- AWS
-- Azure
-- Azure Functions
-- Docker
-- Kubernetes
-- GitHub Actions
-- CI/CD Pipelines
-- Render
+AWS • Azure • Azure Functions • Docker • Kubernetes • GitHub Actions • CI/CD • Render
 
 ### Distributed Systems & Messaging
-- Kafka
-- RabbitMQ
-- Event-Driven Architecture
-- Background Job Processing
-- WebSockets
-- Redis Pub/Sub
+Kafka • RabbitMQ • Redis Pub/Sub • Event-Driven Architecture • WebSockets • Background Job Processing
 
-### Engineering Practices
-- System Design
-- Scalable Architecture
-- Low Level Design
-- Object-Oriented Design
-- Design Patterns
-- Multithreading & Concurrency
-- Performance Optimization
-- API Security
-- Caching Strategies
+### Engineering Concepts
+System Design • Scalable Architecture • Low Level Design • Design Patterns • Concurrency • Performance Optimization • API Security • Caching
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🔹 VaultShare — Secure File & Link Sharing Platform
+## 🔹 VaultShare — Secure File & Link Sharing Platform
+
 Production-style full-stack application built using Java 21 and Spring Boot for secure ephemeral file, text, and short-link sharing.
 
-#### Highlights
-- Expiring and burn-after-open share links
-- Password-protected secure sharing
+### Highlights
+- Expiring and burn-after-open secure share links
+- Password-protected encrypted sharing workflows
 - Multi-file ZIP upload support
 - URL shortener functionality
-- Scheduled cleanup services
-- Dockerized deployment with CI/CD pipelines
+- Automated cleanup and scheduled background processing
+- Dockerized deployment with CI/CD automation
 - SQLite-backed metadata persistence
 
-#### Tech Stack
-Java 21 • Spring Boot 3 • SQLite • Docker • GitHub Actions • Render
+### Tech Stack
+Java 21 • Spring Boot 3 • React • SQLite • Docker • GitHub Actions • Render
 
-🔗 Repository: https://github.com/iharsh3289/vaultshare
-   Live : https://vaultshare-met1.onrender.com
+🔗 Repository: https://github.com/iharsh3289/vaultshare  
+🌐 Live Demo: https://vaultshare-met1.onrender.com
 
 ---
 
-### 🔹 Real-Time Chat Application
-Scalable real-time chat platform built using React, Spring Boot, WebSockets, Redis Pub/Sub, and MongoDB.
+## 🔹 Real-Time Chat Application
 
-#### Highlights
-- Real-time messaging with WebSockets
-- Online presence and typing indicators
-- Private and group chats
-- Redis Pub/Sub based message distribution
-- Persistent chat history and scalable backend architecture
+Scalable real-time messaging platform built using React, Spring Boot, WebSockets, Redis Pub/Sub, and MongoDB.
 
-#### Tech Stack
+### Highlights
+- Real-time bidirectional messaging using WebSockets
+- Online presence tracking and typing indicators
+- Private and group chat support
+- Distributed messaging using Redis Pub/Sub
+- Persistent chat history with scalable backend architecture
+- Low-latency communication workflows
+
+### Tech Stack
 React • Spring Boot • WebSockets • Redis • MongoDB • Docker
 
-🔗 Repository: https://github.com/iharsh3289/spring-websocket-chat-app
-   Live : https://spring-websocket-chat-app-nj54.onrender.com
+🔗 Repository: https://github.com/iharsh3289/spring-websocket-chat-app  
+🌐 Live Demo: https://spring-websocket-chat-app-nj54.onrender.com
 
 ---
 
-### 🔹 Ecommerce Microservices Platform
-Scalable ecommerce platform built using Spring Boot, React, Kafka, Redis, PostgreSQL, and Docker with microservices architecture.
+## 🔹 Ecommerce Microservices Platform
 
-#### Highlights
+Scalable ecommerce platform built using Spring Boot, React, Kafka, Redis, PostgreSQL, and Docker with microservices architecture patterns.
+
+### Highlights
 - Microservices-based backend architecture
-- JWT authentication and API gateway
-- Event-driven order processing
-- Redis caching and async communication
-- Dockerized deployment setup
+- JWT authentication and API gateway integration
+- Event-driven order processing workflows
+- Redis caching and asynchronous communication
+- Dockerized deployment and service orchestration
+- Modular and scalable service communication
 
-#### Tech Stack
+### Tech Stack
 Java • Spring Boot • React • Kafka • Redis • PostgreSQL • Docker
 
 🔗 Repository: https://github.com/iharsh3289/ecommerce-microservices
@@ -143,8 +107,8 @@ Java • Spring Boot • React • Kafka • Redis • PostgreSQL • Docker
 - Scalable Web Applications
 - System Design
 - Cloud-Native Applications
-- High Performance APIs
 - Backend Engineering
+- High Performance APIs
 - Microservices Architecture
 
 ---
@@ -157,4 +121,4 @@ Java • Spring Boot • React • Kafka • Redis • PostgreSQL • Docker
 
 ---
 
-⭐ Passionate about building scalable systems, solving complex engineering problems, and building production-grade applications.
+⭐ Passionate about building scalable systems, solving complex engineering problems, and developing production-grade applications.
